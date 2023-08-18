@@ -1,0 +1,87 @@
+.aboutpage2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.aboutpage2-aboutpage2 {
+  width: 100%;
+  height: 982px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(249, 249, 244, 1);
+}
+.aboutpage2-moonlight-frost2 {
+  top: 0px;
+  left: 0px;
+  width: 1512px;
+  height: 969px;
+  position: absolute;
+}
+.aboutpage2-text {
+  top: 48px;
+  left: 22px;
+  color: #af8444;
+  width: 496px;
+  height: auto;
+  position: absolute;
+  font-size: 96px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 4px 4px 0px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.aboutpage2-text1 {
+  top: 162px;
+  left: 29px;
+  color: rgb(175, 132, 68);
+  width: 665px;
+  height: auto;
+  position: absolute;
+  font-size: 38px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  padding-bottom: 20px; /* Add padding to separate paragraphs */
+}
+.aboutpage2-text6 {
+  top: 220px; /* Adjust top position for spacing */
+  color: rgb(175, 132, 68);
+  right: 28px;
+  width: 765px;
+  height: auto;
+  position: absolute;
+  font-size: 38px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  padding-top: 20px; /* Add padding to separate paragraphs */
+}
+.aboutpage2-text7 {
+  font-size: 45px;
+}
+.aboutpage2-rectangle6 {
+  top: 506px;
+  left: 51px;
+  width: 1421px;
+  height: 38px;
+  position: absolute;
+  border-radius: 15px;
+}

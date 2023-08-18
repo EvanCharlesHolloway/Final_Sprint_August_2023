@@ -1,0 +1,101 @@
+.contact-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.contact-page-contact-page {
+  width: 100%;
+  height: 982px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(250, 250, 244, 1);
+}
+.contact-page-moonlight-frost4 {
+  top: 0px;
+  left: 0px;
+  width: 1512px;
+  height: 982px;
+  position: absolute;
+}
+.contact-page-rectangle5 {
+  top: 240px;
+  left: 286px;
+  width: 940px;
+  height: 431px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.5) ;
+}
+.contact-page-text {
+  top: 318px;
+  left: 577px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 53px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-page-text2 {
+  top: 456px;
+  left: 413px;
+  color: rgba(0, 0, 0, 1);
+  width: 686px;
+  height: auto;
+  position: absolute;
+  font-size: 53px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-page-vector {
+  top: 318px;
+  left: 502px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.contact-page-firrenvelope {
+  top: 463px;
+  left: 397px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.contact-page-text4 {
+  top: 56px;
+  color: #af8444;
+  width: 556px;
+  height: auto;
+  position: absolute;
+  font-size: 96px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contact-page-rectangle6 {
+  top: 707px;
+  left: 185px;
+  width: 1143px;
+  height: 38px;
+  position: absolute;
+  border-radius: 15px;
+}

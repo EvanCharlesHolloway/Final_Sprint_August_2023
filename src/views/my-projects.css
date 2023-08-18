@@ -1,0 +1,134 @@
+.my-projects-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.my-projects-my-projects {
+  width: 100%;
+  height: 982px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(249, 249, 244, 1);
+}
+.my-projects-moonlight-frost3 {
+  top: 0px;
+  left: 0px;
+  width: 1512px;
+  height: 982px;
+  position: absolute;
+}
+.my-projects-text {
+  top: 73px;
+  color: #af8444;
+  width: 593px;
+  height: auto;
+  position: absolute;
+  font-size: 96px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 4px 4px 0px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-projects-rectangle2 {
+  top: 262px;
+  left: 128px;
+  width: 337px;
+  height: 218px;
+  position: absolute;
+}
+.my-projects-rectangle3 {
+  top: 262px;
+  left: 593px;
+  width: 337px;
+  height: 218px;
+  position: absolute;
+}
+.my-projects-rectangle21 {
+  top: 262px;
+  left: 1048px;
+  width: 337px;
+  height: 218px;
+  position: absolute;
+}
+.my-projects-text1 {
+  top: 494px;
+  left: 1023px;
+  color: rgba(0, 0, 0, 1);
+  width: 374px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-projects-text3 {
+  top: 500px;
+  left: 115px;
+  color: rgba(0, 0, 0, 1);
+  width: 395px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-projects-text5 {
+  top: 586px;
+  left: 546px;
+  color: rgb(0, 0, 0);
+  width: 400px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-projects-text6 {
+  top: 521px;
+  left: 350px;
+  color: #af8444;
+  width: 813px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-projects-rectangle6 {
+  top: 650px;
+  left: 190px;
+  width: 1143px;
+  height: 38px;
+  position: absolute;
+  border-radius: 15px;
+}
